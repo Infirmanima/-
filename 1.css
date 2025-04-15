@@ -1,0 +1,23 @@
+body {
+  background-image: url('0.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+p { 
+  color:black;
+  font-size:23px;
+  text-indent:15px;
+}
+h1 {
+  color:white;
+  font-size:65px;
+}
+.btn {
+  display: inline-block; /* Строчно-блочный элемент */
+  background: #2E8B57; /* цвет фона */
+  color: #fff; /* Белый цвет текста */
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+}
